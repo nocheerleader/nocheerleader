@@ -1,23 +1,20 @@
-Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) \
-I'm Ciara
+Hey I'm Ciara ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 =============================================================================================================================
-aka nocheerleader\
-aka The Prompt Driven Developer\
+aka [The Prompt Driven Developer](https://promptdrivendeveloper.substack.com) \
 I'm a PM and I co-host AI cohorts on maven.com
+
 ------------------
 
 * 🌍  I'm Irish, based in the UK 
 * 🖥️  See my portfolio at [ciarawearen.com](http://ciarawearen.com)
-* 🚀  I'm currently working on [MoodScout](http://tbc)
+* 🚀  I'm currently working on [MoodScout](https://moodscout.lovable.app/)
 * 🧠  I'm learning PostgreSQL
 * 🤝  I'm open to collaborating on AI projects
-* ⚡  I'm focusing on building AI tools for ND folks
+* ⚡  I'm focusing on building AI tools for ND folks like me! 
 
 <a href="https://www.x.com/nocheerleader" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nocheerleader?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917"
 /></a>
-
-### Skills
 
 
 <p align="left">
@@ -25,11 +22,9 @@ src="https://img.shields.io/twitter/follow/nocheerleader?logo=twitter&style=for-
 </p>
 
 
-### Socials
 
 <p align="left"> <a href="https://discord.com/users/nocheerleader" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/nocheerleader" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ciarawearen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/nocheerleader" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
