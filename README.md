@@ -1,12 +1,12 @@
-Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-I'm Ciara 
-aka nocheerleader 
-aka The Prompt Driven Developer
+Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) \
+I'm Ciara
 =============================================================================================================================
+aka nocheerleader\
+aka The Prompt Driven Developer\
 I'm a PM and I co-host AI cohorts on maven.com
 ------------------
 
-* 🌍  I'm Irish 🇮🇪 based in the UK 
+* 🌍  I'm Irish, based in the UK 
 * 🖥️  See my portfolio at [ciarawearen.com](http://ciarawearen.com)
 * 🚀  I'm currently working on [MoodScout](http://tbc)
 * 🧠  I'm learning PostgreSQL
