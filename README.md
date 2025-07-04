@@ -27,5 +27,5 @@ src="https://img.shields.io/twitter/follow/nocheerleader?logo=twitter&style=for-
 
 
 
-<a href="http://www.github.com/nocheerleader"><img src="https://github-readme-stats.vercel.app/api?username=nocheerleader&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="nocheerleader's GitHub stats" /></a>
+
 
