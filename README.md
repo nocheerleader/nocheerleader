@@ -7,7 +7,7 @@ I'm a PM and I co-host AI cohorts on maven.com
 
 * 🌍  I'm Irish, based in the UK 
 * 🖥️  See my portfolio at [ciarawearen.com](http://ciarawearen.com)
-* 🚀  I'm currently working on [MoodScout](https://moodscout.lovable.app/)
+* 🚀  I'm currently working on [elucidare](https://elucidare.io/)
 * 🧠  I'm learning PostgreSQL
 * 🤝  I'm open to collaborating on AI projects
 * ⚡  I'm focusing on building AI tools for ND folks like me! 
