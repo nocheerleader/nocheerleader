@@ -1,7 +1,7 @@
 Hey I'm Ciara ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 =============================================================================================================================
 aka [The Prompt Driven Developer](https://promptdrivendeveloper.substack.com) \
-I'm a PM and I co-host AI cohorts on maven.com
+I'm a PM and I co-host AI cohorts on maven.com and I'n the AI Education Lead at 100 School 💯
 
 ------------------
 
