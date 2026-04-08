@@ -16,6 +16,22 @@
 
 ###
 
+```whoami```
+
+```I’m a product engineer and AI education leader focused on building practical systems that help people do better work with AI.```
+
+```I lead Product, Engineering and AI at 100 School, where I design learning products, workflows and experiments that make AI fluency accessible to non-technical professionals.```
+
+```My work sits at the intersection of product strategy, AI systems, education.```
+
+```I’m especially interested in context engineering, AI-first workflows, building useful tools, clear systems and teachable frameworks.``` 
+
+```I care less about hype and more about helping people build real capability.```
+
+```I write about AI-first systems, context engineering and building with AI at [ The Prompt Driven Developer](https://promptdrivendeveloper.com)```
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
   <img width="12" />
@@ -29,43 +45,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
 </div>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-aka [The Prompt Driven Developer](https://promptdrivendeveloper.substack.com) \
-I'm a PM and I co-host AI cohorts on maven.com and I'n the AI Education Lead at 100 School 💯
-
-* 🌍  I'm Irish, based in the UK 
-* 🖥️  See my portfolio at [ciarawearen.com](http://ciarawearen.com)
-* 🚀  I'm currently working on [elucidare](https://elucidare.io/)
-* 🧠  I'm learning PostgreSQL
-* 🤝  I'm open to collaborating on AI projects
-* ⚡  I'm focusing on building AI tools for ND folks like me!
-
-```test```
-
-> [!CAUTION]
-> - 🔖 Congratulations you found me
-
-<a href="https://github.com/walidbosso">   
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
-</a>
-
-> [!NOTE]
-> - 🚙 I’m currently working on web development technologies like `Spring Boot`, `Angular`, `React` etc.
-
-> [!IMPORTANT]
-> - 📚 I’m currently learning **Docker, Jenkins and Grafana** 😅
-
-
-> [!WARNING]  
-> - 💪🏼 Future Goals: Learn more technologies, starting next with **SAP Commerce** - Never stop creating new ideas.
-
-> [!TIP]  
-> - 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
-
 
 ###
 
