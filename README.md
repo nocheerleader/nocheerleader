@@ -24,17 +24,9 @@
 
 ```whoami```
 
-```I’m a product engineer and AI education leader focused on building practical systems that help people do better work with AI.```
+```I’m a product engineer and AI education leader focused on building practical systems that help people do better work with AI.``` ```I lead Product, Engineering and AI at 100 School, where I design learning products, workflows and experiments that make AI fluency accessible to non-technical professionals.``` ```I’m especially interested in context engineering, AI-first workflows, building useful tools, clear systems and teachable frameworks.``` ```I care less about hype and more about helping people build real capability.```
 
-```I lead Product, Engineering and AI at 100 School, where I design learning products, workflows and experiments that make AI fluency accessible to non-technical professionals.```
-
-```My work sits at the intersection of product strategy, AI systems, education.```
-
-```I’m especially interested in context engineering, AI-first workflows, building useful tools, clear systems and teachable frameworks.``` 
-
-```I care less about hype and more about helping people build real capability.```
-
-```I write about AI-first systems, context engineering and building with AI at [ The Prompt Driven Developer](https://promptdrivendeveloper.com)```
+```I write about AI-first systems, context engineering and building with AI at``` [The Prompt Driven Developer](https://promptdrivendeveloper.com)
 
 ###
 
