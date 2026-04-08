@@ -34,17 +34,8 @@
 
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nocheerleader&radius=16&theme=chartreuse-dark&area=true&order=5&custom_title=activity%20graph&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
-
 aka [The Prompt Driven Developer](https://promptdrivendeveloper.substack.com) \
 I'm a PM and I co-host AI cohorts on maven.com and I'n the AI Education Lead at 100 School 💯
-
-------------------
 
 * 🌍  I'm Irish, based in the UK 
 * 🖥️  See my portfolio at [ciarawearen.com](http://ciarawearen.com)
