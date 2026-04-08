@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
 ###
 
 <h1 align="center"></h1>
@@ -122,11 +126,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nocheerleader&radius=16&theme=chartreuse-dark&area=true&order=5&custom_title=activity%20graph&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
 
 
 aka [The Prompt Driven Developer](https://promptdrivendeveloper.substack.com) \
