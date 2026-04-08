@@ -42,7 +42,9 @@ I'm a PM and I co-host AI cohorts on maven.com and I'n the AI Education Lead at 
 * 🚀  I'm currently working on [elucidare](https://elucidare.io/)
 * 🧠  I'm learning PostgreSQL
 * 🤝  I'm open to collaborating on AI projects
-* ⚡  I'm focusing on building AI tools for ND folks like me! 
+* ⚡  I'm focusing on building AI tools for ND folks like me!
+
+```test```
 
 ###
 
