@@ -36,28 +36,6 @@
 
 ###
 
-<h3 align="left"></h3>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nocheerleader/nocheerleader/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nocheerleader/nocheerleader/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nocheerleader/nocheerleader/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nocheerleader&radius=16&theme=chartreuse-dark&area=true&order=5&custom_title=activity%20graph&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
